@@ -4,7 +4,7 @@
 	<tr>
 		<th>
 			<img align="center" width="24" height="24" src="https://img.icons8.com/?size=100&id=zRCxfHhAkOiL&format=png&color=000000">
-			<a href="https://www.codingbanana.dev/"/> e-Portfolio
+			<a href="https://codingdotbanana.github.io/e-Portfolio/"/> e-Portfolio
 		</th>
 		<th>
 			<img align="center" width="24" height="24" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
